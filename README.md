@@ -18,7 +18,7 @@ Task 1.3. Explore the relationship between two variables: quality and alcohol.
 
 ### Task 2: Classification
 Use the random sample data file and complete the following clustering (sub)tasks. In Task 2, you need to classify the wine quality based on the other variables.
-#### * Task 2.1. Select a model, either k-NN (k-Nearest Neighbours) or Decision Tree. Train and evaluate the model appropriately. Use at least 3 metrics for evaluation.
+#### *Task 2.1. Select a model, either k-NN (k-Nearest Neighbours) or Decision Tree. Train and evaluate the model appropriately. Use at least 3 metrics for evaluation.
 #### * Task 2.2. Study the impact of at least one key parameter of the model. Describe your findings. Choose the best value(s) for the parameter(s) and justify your choice.
 #### * Task 2.3. With the above optimal parameter(s), train and test the model on different training/test data splits: 20:80, 30:70, 40:60, 50:50, 60:40, 70:30, 80:20. What is the best train/test split? Why?
 
