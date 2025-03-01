@@ -1,5 +1,5 @@
 # Clustering_Classification
- This repository demonstrates the apllication of classifcation and clustering technique
+ This repository demonstrates the application of classifcation and clustering technique
 
 ## Introduction
 This project focuses on data modelling, a core step in the data science process. The task is to use the different analytical methods to solve the tasks. 
